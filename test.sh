@@ -1,1 +1,1 @@
-sudo shutdown -h now
+sudo shutdown -r now
